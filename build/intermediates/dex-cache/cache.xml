@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_527aeb1e3660af25ed0646ff0a9d5f13411d543e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce8d33a52982bb2832e5ab8837859994745cf776">
+        <dex dex="/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_64504e1c9bad87de93ed47a0fae0c2c05055406a/classes.dex" />
+    </item>
+
+</items>

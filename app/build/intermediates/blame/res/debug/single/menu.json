@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/menu/left_settings.xml",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/app/src/main/res/menu/left_settings.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/menu/toolbar.xml",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/menu/toolbar.xml"
+    }
+]

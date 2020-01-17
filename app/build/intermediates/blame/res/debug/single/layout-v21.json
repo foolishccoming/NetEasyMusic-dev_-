@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

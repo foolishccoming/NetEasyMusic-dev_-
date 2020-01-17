@@ -1,0 +1,7 @@
+#Thu Jan 16 18:32:22 CST 2020
+base.0=/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_64504e1c9bad87de93ed47a0fae0c2c05055406a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_527aeb1e3660af25ed0646ff0a9d5f13411d543e/classes.dex
+base.1=/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_527aeb1e3660af25ed0646ff0a9d5f13411d543e
+file.0=/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_64504e1c9bad87de93ed47a0fae0c2c05055406a/classes.dex

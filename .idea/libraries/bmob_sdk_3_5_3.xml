@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="bmob-sdk-3.5.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/jars/libs/gson-2.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/jars/libs/okio-1.7.0.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/jars/libs/BmobSDK_3.5.3_20161116.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/jars/libs/okhttp-3.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/jars/libs/rxandroid-1.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/jars/libs/rxjava-1.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

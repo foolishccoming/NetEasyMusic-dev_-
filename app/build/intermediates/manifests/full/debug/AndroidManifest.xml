@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="t3.henu.neteasymusic"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="21" />
+
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 监听网络的变化 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <!-- sd卡存储 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BIND_VOICE_INTERACTION" />
+    <!-- 通知震动 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="t3.henu.left_library.YHQ_solve.MusicApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="t3.henu.neteasymusic.WelcomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="t3.henu.neteasymusic.appMain_drawerlayout_start.LogInactivity" />
+        <activity android:name="t3.henu.neteasymusic.appMain_drawerlayout_start.RegistActivity" />
+        <activity android:name="t3.henu.neteasymusic.MainActivity" />
+        <activity android:name="t3.henu.left_library.GYB_solve.MainActivity" />
+
+        <receiver
+            android:name="t3.henu.neteasymusic.PlayReceive"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="gyb.ne.play_music.play" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="t3.henu.neteasymusic.SettingActivity" />
+
+        <service android:name="t3.henu.neteasymusic.AlarmService" />
+
+        <receiver android:name="t3.henu.neteasymusic.AlarmReceiver" >
+        </receiver>
+
+        <activity android:name="t3.henu.left_library.GYB_solve.Activities.MyMusic" />
+        <activity android:name="t3.henu.left_library.YHQ_solve.clickBillboard.OnlineMusicActivity" />
+
+        <receiver
+            android:name="t3.henu.left_library.GYB_solve.Brodecast.PlayMusic_Receiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="gyb.ne.play_music.play" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="t3.henu.left_library.GYB_solve.Services.PlayService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="t3.henu.left_library.YYN_solve.NewSongActivity" />
+        <activity android:name="t3.henu.left_library.GYB_solve.Activities.NetWork.SearchActivity" />
+        <activity android:name="t3.henu.left_library.GYB_solve.Activities.NetWork.SearchResult" />
+        <activity android:name="t3.henu.left_library.GYB_solve.PlayActivity" />
+        <activity android:name="t3.henu.left_library.XPD_solve.MainActivity_XPD" />
+        <activity android:name="t3.henu.left_library.XPD_solve.Main2Activity" />
+    </application>
+
+</manifest>

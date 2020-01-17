@@ -1,0 +1,4 @@
+#Thu Jan 16 18:32:21 CST 2020
+base.0=/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

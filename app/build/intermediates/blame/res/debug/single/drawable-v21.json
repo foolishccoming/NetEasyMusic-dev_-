@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/btnselect.xml",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/btnselect.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/touch_bg.xml",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/touch_bg.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_next.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_next.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_disc.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_disc.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_play1.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_play1.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/send_btn_normal.9.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/send_btn_normal.9.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/kaola.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/kaola.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_play.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_play.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_pause.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_pause.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/cat.jpg",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/cat.jpg"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/send_btn_pressed.9.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/send_btn_pressed.9.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_last.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_last.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/tim1g.jpg",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/tim1g.jpg"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/login_edit_normal.9.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/login_edit_normal.9.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/in.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/in.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/activity_main_drawerlayout_left_recyclerview_item_bg.xml",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/app/src/main/res/drawable-v21/activity_main_drawerlayout_left_recyclerview_item_bg.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/out.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/out.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/back.jpg",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/back.jpg"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/rounded_edittext.xml",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/rounded_edittext.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/chatfrom_bg_normal.9.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_blackground.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_blackground.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_disc_blackground.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_disc_blackground.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/chatto_bg_focused.9.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/drawable-v21/ic_needle.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/drawable-v21/ic_needle.png"
+    }
+]

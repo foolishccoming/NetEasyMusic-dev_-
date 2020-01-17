@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:12:5-80
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.BIND_VOICE_INTERACTION
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:15:5-66
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:16:5-76
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:17:5-76
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:17:22-73
+application
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:19:5-55:19
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:26:5-58:19
+MERGED from [cn.bmob.android:bmob-sdk:3.5.3] /home/ts/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:design:25.3.1] /home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/ts/.android/build-cache/8ce3c46f800b46d3c13139b413c4e2d7244dae36/output/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/ts/.android/build-cache/cb43773e9481c00710770a19cce369ed33c0ae67/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ts/.android/build-cache/40df3e78c5c8fbfd23d83e238e285e742a78cf18/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/ts/.android/build-cache/dff07255061d2f806df6457ebd814c8922283523/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/ts/.android/build-cache/bec9a3fe0421babce72aa3e49909862d6a4a9708/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ts/.android/build-cache/fa5de38668e4837adbd9c57b40f55b7355836d1f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ts/.android/build-cache/526e08fcde81b437f8d885bd26690244e536c2c9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ts/.android/build-cache/afdcf91b4cb984f460fd143fbd33decd601f25e7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ts/.android/build-cache/7f44923f5838e0373e13b0d81cd75864214f80c8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ts/.android/build-cache/066cec7abf84c7d426e285274298dfbe0352af30/output/AndroidManifest.xml:26:5-20
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.9.7] /home/ts/.android/build-cache/e900ab678a5a7997fa87dfe83c15ec7895cfaeee/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ts/.android/build-cache/45e1a85c36e8c4e0a5149683e2d295e8c36d9b82/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/ts/.android/build-cache/24362f3d44091dee2960077551a5bb9477de16b0/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:26:9-35
+	android:hardwareAccelerated
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:21:9-44
+	android:roundIcon
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:25:9-54
+	android:allowBackup
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:22:9-43
+	android:largeHeap
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:24:9-33
+	android:theme
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:27:9-71
+activity#t3.henu.neteasymusic.WelcomeActivity
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:28:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:32:27-74
+activity#t3.henu.neteasymusic.appMain_drawerlayout_start.LogInactivity
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:35:9-78
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:35:19-75
+activity#t3.henu.neteasymusic.appMain_drawerlayout_start.RegistActivity
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:36:9-79
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:36:19-76
+activity#t3.henu.neteasymusic.MainActivity
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:37:9-50
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:37:19-47
+activity#t3.henu.left_library.GYB_solve.MainActivity
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:38:9-80
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:34:9-80
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:38:19-77
+receiver#t3.henu.neteasymusic.PlayReceive
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:40:9-47:20
+	android:enabled
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:41:13-40
+intent-filter#gyb.ne.play_music.play
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:44:13-46:29
+action#gyb.ne.play_music.play
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:45:17-65
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:45:25-62
+activity#t3.henu.neteasymusic.SettingActivity
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:49:9-62
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:49:19-50
+service#t3.henu.neteasymusic.AlarmService
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:50:9-48
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:50:18-46
+receiver#t3.henu.neteasymusic.AlarmReceiver
+ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml:53:19-48
+uses-sdk
+INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /home/ts/.android/build-cache/3bacefe0eb3d099db48c4221b2d7591aa3f8ec46/output/AndroidManifest.xml:18:5-42
+MERGED from [cn.bmob.android:bmob-sdk:3.5.3] /home/ts/.android/build-cache/7279d1429b9d0bd31663c4166e6fd0fafa820fbf/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.6.2] /home/ts/.android/build-cache/b456b661d9bbe5f08fb8eb672457df5cf3999756/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /home/ts/.android/build-cache/8ce3c46f800b46d3c13139b413c4e2d7244dae36/output/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/ts/.android/build-cache/cb43773e9481c00710770a19cce369ed33c0ae67/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ts/.android/build-cache/40df3e78c5c8fbfd23d83e238e285e742a78cf18/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/ts/.android/build-cache/dff07255061d2f806df6457ebd814c8922283523/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/ts/.android/build-cache/bec9a3fe0421babce72aa3e49909862d6a4a9708/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ts/.android/build-cache/fa5de38668e4837adbd9c57b40f55b7355836d1f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ts/.android/build-cache/526e08fcde81b437f8d885bd26690244e536c2c9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ts/.android/build-cache/afdcf91b4cb984f460fd143fbd33decd601f25e7/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ts/.android/build-cache/7f44923f5838e0373e13b0d81cd75864214f80c8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ts/.android/build-cache/066cec7abf84c7d426e285274298dfbe0352af30/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.9.7] /home/ts/.android/build-cache/e900ab678a5a7997fa87dfe83c15ec7895cfaeee/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ts/.android/build-cache/d831772dc9528cf6b20d3fa4ba6f1af875d4a202/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ts/.android/build-cache/45e1a85c36e8c4e0a5149683e2d295e8c36d9b82/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/ts/.android/build-cache/24362f3d44091dee2960077551a5bb9477de16b0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.makeramen:roundedimageview:2.3.0] /home/ts/.android/build-cache/9a23a49d7e76140b6fb52b5098883e7e832316f0/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ts/projects/NetEasyMusic-dev_-/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_SMS
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:24:22-81
+activity#t3.henu.left_library.GYB_solve.Activities.MyMusic
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:35:9-86
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:35:19-83
+activity#t3.henu.left_library.YHQ_solve.clickBillboard.OnlineMusicActivity
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:36:9-102
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:36:19-99
+receiver#t3.henu.left_library.GYB_solve.Brodecast.PlayMusic_Receiver
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:38:9-45:20
+	android:enabled
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:40:13-35
+	android:exported
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:39:13-87
+service#t3.henu.left_library.GYB_solve.Services.PlayService
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:47:9-50:39
+	android:enabled
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:48:13-79
+activity#t3.henu.left_library.YYN_solve.NewSongActivity
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:52:9-83
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:52:19-80
+activity#t3.henu.left_library.GYB_solve.Activities.NetWork.SearchActivity
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:53:9-101
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:53:19-98
+activity#t3.henu.left_library.GYB_solve.Activities.NetWork.SearchResult
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:54:9-99
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:54:19-96
+activity#t3.henu.left_library.GYB_solve.PlayActivity
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:55:9-80
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:55:19-77
+activity#t3.henu.left_library.XPD_solve.MainActivity_XPD
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:56:9-84
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:56:19-81
+activity#t3.henu.left_library.XPD_solve.Main2Activity
+ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:57:9-81
+	android:name
+		ADDED from [NetEasyMusic-dev_-:left_library:unspecified] /home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/AndroidManifest.xml:57:19-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/ts/.android/build-cache/8ce3c46f800b46d3c13139b413c4e2d7244dae36/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/ts/.android/build-cache/dff07255061d2f806df6457ebd814c8922283523/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ts/.android/build-cache/d60126e1d356d8478dde8338caad6682f271cf8d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/ts/.android/build-cache/bec9a3fe0421babce72aa3e49909862d6a4a9708/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ts/.android/build-cache/fa5de38668e4837adbd9c57b40f55b7355836d1f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ts/.android/build-cache/526e08fcde81b437f8d885bd26690244e536c2c9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ts/.android/build-cache/afdcf91b4cb984f460fd143fbd33decd601f25e7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ts/.android/build-cache/7f44923f5838e0373e13b0d81cd75864214f80c8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ts/.android/build-cache/066cec7abf84c7d426e285274298dfbe0352af30/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ts/.android/build-cache/d831772dc9528cf6b20d3fa4ba6f1af875d4a202/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ts/.android/build-cache/45e1a85c36e8c4e0a5149683e2d295e8c36d9b82/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/ts/.android/build-cache/24362f3d44091dee2960077551a5bb9477de16b0/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/ts/.android/build-cache/82bb0a538af23f81afb6702d793fe9d8e6e3b5f2/output/AndroidManifest.xml:26:9-47

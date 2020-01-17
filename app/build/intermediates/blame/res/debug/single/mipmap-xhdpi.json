@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_cylinder.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/app/src/main/res/mipmap-xhdpi/ic_cylinder.png"
+    }
+]

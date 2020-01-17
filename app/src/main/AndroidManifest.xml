@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="t3.henu.neteasymusic">
+
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 监听网络的变化 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <!-- sd卡存储 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BIND_VOICE_INTERACTION" />
+    <!-- 通知震动 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".appMain_drawerlayout_start.LogInactivity" />
+        <activity android:name=".appMain_drawerlayout_start.RegistActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name="t3.henu.left_library.GYB_solve.MainActivity" />
+
+        <receiver
+            android:name=".PlayReceive"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="gyb.ne.play_music.play" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".SettingActivity"></activity>
+        <service android:name=".AlarmService"/>
+
+
+        <receiver android:name=".AlarmReceiver" >
+        </receiver>
+    </application>
+
+</manifest>

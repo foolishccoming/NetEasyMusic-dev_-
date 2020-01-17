@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/login_icon_edit_clear.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/login_icon_edit_clear.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_search.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/ic_search.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/back.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/back.png"
+    },
+    {
+        "merged": "/home/ts/projects/NetEasyMusic-dev_-/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/pointer.png",
+        "source": "/home/ts/projects/NetEasyMusic-dev_-/left_library/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/pointer.png"
+    }
+]
